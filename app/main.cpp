@@ -1,3 +1,10 @@
+/* Control N2 
+Nombre: Ruben Gazitua
+
+Asignatura: Computacion Paralela y Distribuida
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
